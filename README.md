@@ -7,9 +7,7 @@ I am working on mathematical models of neurodegeneration, specifically, Alzhieme
 - 📫 How to reach me: pavanjit.chaggar@exeter.ox.ac.uk or twitter: [@ChaggarPavan](https://twitter.com/ChaggarPavan)
 - 😄 Pronouns: He/him
 
-Previous education: 
-* 2019 - 2023, DPhil Mathematical Modelling, Unversity of Oxford. 
-    *  Supervisors: Prof. Alain Goriely, Prof. Saad Jbabdi.
+Previous research/education:
 * 2018 - 2019, MSc Neuroscience, University College London. 
     * Supervisors: Prof. Maria Chait, Prof. Karl Friston, Prof. Gareth Barnes.
     * Thesis: Brain mechanisms underlying the detection of patterns in rapid sound sequences: Hippocampal recruitment by a temporo-frontal network supports statistical learning in humans
@@ -21,3 +19,5 @@ Previous education:
 <!--
 **PavanChaggar/PavanChaggar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+* 2019 - 2023, DPhil Mathematical Modelling, Unversity of Oxford. 
+    *  Supervisors: Prof. Alain Goriely, Prof. Saad Jbabdi.
