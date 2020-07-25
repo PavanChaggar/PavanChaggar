@@ -6,10 +6,9 @@ I am working on mathematical models of neurodegernation, specifically, Alzhiemer
 
 Education: 
 
-* 2019 - 2023, DPhil Mathematical Modelling, Unversity of Oxford. Supervisors: Prof. Alain Goriely, Prof. Saad Jbabdi. <br/>
-asdfadslkj 
+* 2019 - 2023, DPhil Mathematical Modelling, Unversity of Oxford. Supervisors: Prof. Alain Goriely, Prof. Saad Jbabdi.
+    asdfadlkj 
 * 2018 - 2019, MSc Neuroscience, University College London. Supervisors: Prof. Maria Chait, Prof. Karl Friston, Prof. Gareth Barnes.
-
 * 2012 - 2016, BSc Biomedical Sciences, King's College London. Supervisors: Prof. Clive Coen.
 
 - 📫 How to reach me: pavanjit.chaggar@exeter.ox.ac.uk or twitter: [@ChaggarPavan](https://twitter.com/ChaggarPavan)
